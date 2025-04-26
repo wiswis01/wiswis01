@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @wissal
+- 👀 I’m interested in AI, journaling and languages 
+- 🌱 I’m currently learning Data Science 
+- 💞️ I’m looking to collaborate on Conversational AI proojects 
+- 📫 How to reach me 
+- ⚡ Fun fact: I threw a gas bottle out of fearness when it opened while in my hands 
